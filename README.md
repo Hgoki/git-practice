@@ -1,5 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルリポで変更　　
-rebase-practice branch で編集
+mainで更新(conflict用)
 
